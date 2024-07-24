@@ -56,6 +56,7 @@ namespace Template.ViewModels
             Debug.WriteLine("button pressed");
         }
 
+        //test
         #endregion
     }
 }
