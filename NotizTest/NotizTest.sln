@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotizTest", "NotizTest\NotizTest.csproj", "{9CC4FBCA-694A-49C4-9510-2D524C42C5F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CC4FBCA-694A-49C4-9510-2D524C42C5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC4FBCA-694A-49C4-9510-2D524C42C5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC4FBCA-694A-49C4-9510-2D524C42C5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC4FBCA-694A-49C4-9510-2D524C42C5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE4FB4A-C38F-4470-B2AB-BA3A73ACF831}
+	EndGlobalSection
+EndGlobal
