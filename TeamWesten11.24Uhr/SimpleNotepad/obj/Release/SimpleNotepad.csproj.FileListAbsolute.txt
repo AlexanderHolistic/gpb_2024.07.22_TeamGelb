@@ -1,0 +1,12 @@
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\bin\Release\SimpleNotepad.exe.config
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\bin\Release\SimpleNotepad.exe
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\bin\Release\SimpleNotepad.pdb
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\obj\Release\SimpleNotepad.csproj.AssemblyReference.cache
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\obj\Release\SimpleNotepad.SearchDialog.resources
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\obj\Release\SimpleNotepad.MainForm.resources
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\obj\Release\SimpleNotepad.Properties.Resources.resources
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\obj\Release\SimpleNotepad.ReplaceDialog.resources
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\obj\Release\SimpleNotepad.csproj.GenerateResource.cache
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\obj\Release\SimpleNotepad.csproj.CoreCompileInputs.cache
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\obj\Release\SimpleNotepad.exe
+C:\Users\ni.scheuing\Desktop\TeamWesten\SimpleNotepad\obj\Release\SimpleNotepad.pdb
